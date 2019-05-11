@@ -1,14 +1,8 @@
 package me.maloste;
 
-public class HackerSkull {
+public class Crypto {
 
-public static void main(String [] vz){
-    String bz =crypt("andreas");
-    System.out.println(bz);
 
-     String rt = decrypt(bz);
-     System.out.println(rt);
-}
 
 
     public static String crypt(String vsr) {

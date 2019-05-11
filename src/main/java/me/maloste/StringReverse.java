@@ -1,4 +1,6 @@
-public class ArrayExample {
+package me.maloste;
+
+public class StringReverse {
     public static String reverse(String nt) {
         char[] arr = nt.toCharArray();
         String ran = "";
